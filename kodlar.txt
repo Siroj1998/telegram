@@ -1,0 +1,66 @@
+
+smallpdf.com
+
+http:\\195.158.28.30:2221   LOkal tarmoqda antivirusni obnovleniya qilish uz
+
+ONLINE  http://000.youface.uz  Tas-ix uchun      login @spyuz        parol: telegram
+
+        http://999.youface.uz   globalniy 
+
+ keriyo
+	adminusers
+	1993
+  
+antivirus  o'chirishda  LIVE GRID NI o'chirish    
+
+o'chirilmagan bo'lsa  uninstaleset programma orqalai bezopasiy rijimdan o'chirish
+
+
+wi fi  prolini bilish 
+  
+netsh wlan show profiles name="nomi wi fi" key="clear"
+
+
+MEGASOFT.UZ	
+
+DRIVERLAR 
+
+DPS    driver + programma onlineni ofline versiyasi o'zi hammasini uo'rnatadi
+
+
+SDI faqat driverni o'zi 
+
+
+
+
+lusrmgr.msc
+
+
+
+LAN kabel yasash
+
+8 talik joylshtirish 
+
+1-oq sariq
+2-sariq
+3-oq yashil 
+4-ko'k
+5-oq ko'k
+6-yashil
+7-oq malla
+8-malla
+
+
+ Bu yerda 4 ta kabelni ulasak ham ishlaydi 
+1
+2
+3
+6
+larni ulasak ham bo'ladi
+
+Kabel turlari 
+
+1- UTB kabel
+2- RG45
+
+objem 
